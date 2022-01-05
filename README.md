@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+- 🔭 Currently studying at EDUCAnet!
+- 🌱 Learning Java, JavaScript, HTML, CSS and C++ for UE4
+- ⚡ Interested in making Minecraft mods and plugins.
 
 ![Antonín's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninvondrovic&count_private=true&show_icons=true&theme=radical&hide=prs)
 
