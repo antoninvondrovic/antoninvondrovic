@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at EDUCAnet!
-- 🌱 I’m currently learning Java, JavaScript, HTML and CSS
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS and C++ for UE4
 - ⚡ Fun fact: idfk lol -?,?, ???!?!,
 
 <!--
